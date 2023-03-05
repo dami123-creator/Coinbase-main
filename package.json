@@ -1,0 +1,14 @@
+{
+  "name": "coinbase-main",
+  "version": "1.0.0",
+  "description": "Proyecto Final OpenBootcamp curso HTML-CSS",
+  "main": "index.js",
+  "scripts": {
+    "build": "sass sass/index.scss css/styles.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.58.3"
+  }
+}
