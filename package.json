@@ -4,7 +4,7 @@
   "description": "Proyecto Final OpenBootcamp curso HTML-CSS",
   "main": "index.js",
   "scripts": {
-    "build": "sass sass/index.scss css/styles.css"
+    "build": "sass ./sass/styles.scss ./css/styles.css && mkdir -p dist && cp -r ./css ./dist && cp ./index.html ./dist"
   },
   "author": "",
   "license": "ISC",
