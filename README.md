@@ -8,4 +8,4 @@ Proyecto Final OpenBootcamp curso HTML-CSS
 - SASS
 - Bootstrap / Bootstrap Icons
 
-## DEMO: https://diegoivg98.github.io/Coinbase/
+## DEMO: https://master--eloquent-marzipan-2d2d11.netlify.app/
